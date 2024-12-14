@@ -20,8 +20,8 @@ Ensure you have the following installed:
 
 ```bash
 # Clone the repository using git or download the zip file
-$ git clone <repository-url>
-$ cd <repository-folder>
+$ git clone https://github.com/Sumit240803/python-assessment.git
+
 ```
 
 ### 2. Set Up a PostgreSQL Database

@@ -35,8 +35,8 @@ The script uses the following standard Python modules:
 1. Clone or Download the Repository:
 
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/Sumit240803/python-assessment.git
+   
    ```
 
 2. Ensure the `adb` command is in your system's PATH. To verify:
