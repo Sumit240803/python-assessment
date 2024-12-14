@@ -1,0 +1,13 @@
+2024-12-14 21:18:11,381 - Starting emulator 'MyPhone'...
+2024-12-14 21:18:11,388 - Emulator 'MyPhone' started.
+2024-12-14 21:18:11,389 - Waiting for emulator to boot...
+2024-12-14 21:18:41,390 - Emulator is ready.
+2024-12-14 21:18:41,391 - Retrieving system information...
+2024-12-14 21:18:41,549 - OS Version: 15
+2024-12-14 21:18:41,620 - Device Model: sdk_gphone64_x86_64
+2024-12-14 21:18:41,689 - Device Manufacturer: Google
+2024-12-14 21:18:41,804 - Total Memory: 2021192 kB
+2024-12-14 21:18:41,804 - Available Memory: 773376 kB
+2024-12-14 21:18:41,804 - System information retrieval complete.
+2024-12-14 21:18:41,804 - Installing APK from: D:\WorkPlace\Projects\SumitGoyal_PythonInternAssignment/weather.apk...
+2024-12-14 21:18:54,160 - APK installed successfully.

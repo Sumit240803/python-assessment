@@ -1,0 +1,18 @@
+2024-12-14 21:19:39,261 - Device info retrieved successfully.
+2024-12-14 21:19:39,261 - Sending data to server...
+2024-12-14 21:19:39,300 - Error from server: 400 - {
+  "Error": "Missing Values"
+}
+
+2024-12-14 21:23:12,399 - Device info retrieved successfully.
+2024-12-14 21:23:12,399 - Sending data to server...
+2024-12-14 21:23:12,418 - Error from server: 400 - {
+  "Error": "Missing Values"
+}
+
+2024-12-14 21:23:52,983 - Device info retrieved successfully.
+2024-12-14 21:23:52,983 - Sending data to server...
+2024-12-14 21:23:52,990 - Error from server: 400 - {
+  "Error": "Missing Values"
+}
+
